@@ -4,6 +4,8 @@
 * [예시1] 아이디 → 0r0lCl
 * [예시2] 우주 → 0rKr (왼쪽으로 90도 회전한 형태)
 
+* website: https://share.streamlit.io/yeounyi/hangul2alphabet/main/app.py
+
 ### requirements 
 * pandas==0.25.0
 * streamlit==0.70.0
